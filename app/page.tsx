@@ -43,7 +43,7 @@ export default function Home() {
                 </Link>
               </div>
               <figure className="landing__image--mask">
-                <img src="" alt="landing" />
+                <img src="null" alt="landing" />
               </figure>
             </div>
           </div>
